@@ -14,3 +14,5 @@ wheels/
 
 # marimo session cache
 __marimo__/
+.nvimlog
+*.png
